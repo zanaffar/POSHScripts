@@ -1,2 +1,0 @@
-﻿Set-ItemProperty -Path 'HKLM:\SYSTEM\CurrentControlSet\Enum\USB\VID_8087&PID_0024\5&378a325c&0&1\Device Parameters' -Name EnableSelectiveSuspend -Value '0' -Type DWord
-Set-ItemProperty -Path 'HKLM:\SYSTEM\CurrentControlSet\Enum\USB\VID_8087&PID_0024\5&388fe42b&0&1\Device Parameters' -Name EnableSelectiveSuspend -Value '0' -Type DWord
