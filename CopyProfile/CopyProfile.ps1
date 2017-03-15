@@ -1,0 +1,1 @@
+Copy-Item -Path "\\wlb-dcm0-03\netlogon\Default User.v2 Template\*" -Destination "C:\Users\Default" -Force -Recurse

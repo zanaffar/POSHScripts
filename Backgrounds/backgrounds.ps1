@@ -1,0 +1,1 @@
+﻿Copy-Item -Path "\\hercules\iso`$\Monmouth University\Windows Themes\Windows 7-8\Monmouth\Windows\*" -Destination $env:windir -Recurse -Force

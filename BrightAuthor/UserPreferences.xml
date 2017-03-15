@@ -1,0 +1,708 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BrightAuthorUserPreferences version="4">
+  <UserPreferences>
+    <BrightSignModel>HD1020</BrightSignModel>
+    <VideoConnector>HDMI</VideoConnector>
+    <VideoMode>1920x1080x60i</VideoMode>
+    <BackgroundScreenColor>FF000000</BackgroundScreenColor>
+    <ForceResolution>True</ForceResolution>
+    <TenBitColorEnabled>False</TenBitColorEnabled>
+    <MonitorOverscan>noOverscan</MonitorOverscan>
+    <MonitorOrientation>Landscape</MonitorOrientation>
+    <NumberOfConnectionsMissedThatResultInRedStatus>3</NumberOfConnectionsMissedThatResultInRedStatus>
+    <GPIO0>input</GPIO0>
+    <GPIO1>input</GPIO1>
+    <GPIO2>input</GPIO2>
+    <GPIO3>input</GPIO3>
+    <GPIO4>input</GPIO4>
+    <GPIO5>input</GPIO5>
+    <GPIO6>input</GPIO6>
+    <GPIO7>input</GPIO7>
+    <BP900AConfigureAutomatically>True</BP900AConfigureAutomatically>
+    <BP900BConfigureAutomatically>True</BP900BConfigureAutomatically>
+    <BP900CConfigureAutomatically>True</BP900CConfigureAutomatically>
+    <BP200AConfigureAutomatically>True</BP200AConfigureAutomatically>
+    <BP200BConfigureAutomatically>True</BP200BConfigureAutomatically>
+    <BP200CConfigureAutomatically>True</BP200CConfigureAutomatically>
+    <BP900AConfiguration>0</BP900AConfiguration>
+    <BP900BConfiguration>0</BP900BConfiguration>
+    <BP900CConfiguration>0</BP900CConfiguration>
+    <BP200AConfiguration>0</BP200AConfiguration>
+    <BP200BConfiguration>0</BP200BConfiguration>
+    <BP200CConfiguration>0</BP200CConfiguration>
+    <DeviceWebPageDisplay>Standard</DeviceWebPageDisplay>
+    <CustomDeviceWebPage />
+    <AlphabetizeVariableNames>True</AlphabetizeVariableNames>
+    <GraphicsZOrder>Front</GraphicsZOrder>
+    <IdleScreenColor>FF000000</IdleScreenColor>
+    <EnableBackups>False</EnableBackups>
+    <BackupFrequency>5</BackupFrequency>
+    <BackupMaximumNumberOfFiles>5</BackupMaximumNumberOfFiles>
+    <LimitStorageSpace>False</LimitStorageSpace>
+    <SpaceLimitedByAbsoluteSize>False</SpaceLimitedByAbsoluteSize>
+    <PublishedDataSizeLimitMB>0</PublishedDataSizeLimitMB>
+    <DynamicDataSizeLimitMB>0</DynamicDataSizeLimitMB>
+    <HTMLDataSizeLimitMB>0</HTMLDataSizeLimitMB>
+    <HTMLLocalStorageSizeLimitMB>0</HTMLLocalStorageSizeLimitMB>
+    <PublishedDataSizeLimitPercentage>45</PublishedDataSizeLimitPercentage>
+    <DynamicDataSizeLimitPercentage>45</DynamicDataSizeLimitPercentage>
+    <HTMLDataSizeLimitPercentage>10</HTMLDataSizeLimitPercentage>
+    <HTMLLocalStorageSizeLimitPercentage>0</HTMLLocalStorageSizeLimitPercentage>
+    <DelayScheduleChangeUntilMediaEndEvent>False</DelayScheduleChangeUntilMediaEndEvent>
+    <DisplayGroups>True</DisplayGroups>
+    <DisplayBrightWallGroups>False</DisplayBrightWallGroups>
+    <DisplayPresentations>True</DisplayPresentations>
+    <DisplayBrightWallPresentations>False</DisplayBrightWallPresentations>
+    <DisplayBrightWallConfigurations>False</DisplayBrightWallConfigurations>
+    <ViewMode>Letterboxed and Centered</ViewMode>
+    <AudioOutput>Analog Audio</AudioOutput>
+    <AudioMode>Multichannel Surround</AudioMode>
+    <AudioMapping>Audio-1</AudioMapping>
+    <AnalogOutput>PCM</AnalogOutput>
+    <Analog2Output>None</Analog2Output>
+    <Analog3Output>None</Analog3Output>
+    <HDMIOutput>PCM</HDMIOutput>
+    <SPDIFOutput>None</SPDIFOutput>
+    <USBOutput>None</USBOutput>
+    <USBOutputA>None</USBOutputA>
+    <USBOutputB>None</USBOutputB>
+    <USBOutputC>None</USBOutputC>
+    <USBOutputD>None</USBOutputD>
+    <AudioMixMode>Stereo</AudioMixMode>
+    <Volume>100</Volume>
+    <LiveVideoInput>S-Video</LiveVideoInput>
+    <LiveVideoStandard>NTSC-M</LiveVideoStandard>
+    <Brightness>128</Brightness>
+    <Contrast>64</Contrast>
+    <Saturation>64</Saturation>
+    <Hue>0</Hue>
+    <LiveVideoTimeOnScreen>0</LiveVideoTimeOnScreen>
+    <InitialVideoVolume>100</InitialVideoVolume>
+    <InitialAudioVolume>100</InitialAudioVolume>
+    <AudioInSampleRate>48000</AudioInSampleRate>
+    <VideoDisplayMode>2D</VideoDisplayMode>
+    <ImageMode>Scale to Fit</ImageMode>
+    <SlideTransition>No effect</SlideTransition>
+    <SlideDelayInterval>6</SlideDelayInterval>
+    <TransitionDuration>1.0</TransitionDuration>
+    <TickerForegroundTextColor>FFFFFFFF</TickerForegroundTextColor>
+    <TickerBackgroundTextColor>FF000000</TickerBackgroundTextColor>
+    <TickerFont>System</TickerFont>
+    <TickerNumberOfLines>3</TickerNumberOfLines>
+    <TickerDisplayTime>5</TickerDisplayTime>
+    <TickerRotation>0</TickerRotation>
+    <TickerAlignment>left</TickerAlignment>
+    <TickerTextAppearance>0</TickerTextAppearance>
+    <TickerScrollSpeed>10000</TickerScrollSpeed>
+    <TickerBackgroundBitmapFile />
+    <TickerStretchBackgroundBitmap>false</TickerStretchBackgroundBitmap>
+    <TickerSafeTextRegionX />
+    <TickerSafeTextRegionY />
+    <TickerSafeTextRegionWidth />
+    <TickerSafeTextRegionHeight />
+    <LiveTextForegroundTextColor>FFA0A0A0</LiveTextForegroundTextColor>
+    <LiveTextBackgroundTextColor>FF000000</LiveTextBackgroundTextColor>
+    <LiveTextFont>System</LiveTextFont>
+    <LiveTextFontSize>0</LiveTextFontSize>
+    <LiveTextAlignment>left</LiveTextAlignment>
+    <LiveTextBackgroundColorSpecified>False</LiveTextBackgroundColorSpecified>
+    <ClockDisplayTime>time</ClockDisplayTime>
+    <ClockForegroundTextColor>FFFFFFFF</ClockForegroundTextColor>
+    <ClockBackgroundTextColor>FF000000</ClockBackgroundTextColor>
+    <ClockFont>System</ClockFont>
+    <ClockBackgroundBitmapFile />
+    <ClockStretchBackgroundBitmap>false</ClockStretchBackgroundBitmap>
+    <ClockSafeTextRegionX />
+    <ClockSafeTextRegionY />
+    <ClockSafeTextRegionWidth />
+    <ClockSafeTextRegionHeight />
+    <ClockRotation>0</ClockRotation>
+    <Language>English</Language>
+    <Localization Language="English">
+      <LanguageKey>eng</LanguageKey>
+      <DateFormat>%A, %B %e, %Y</DateFormat>
+      <TimeFormat>%l:%M</TimeFormat>
+      <AMFormat>AM</AMFormat>
+      <PMFormat>PM</PMFormat>
+      <JanShort>Jan</JanShort>
+      <FebShort>Feb</FebShort>
+      <MarShort>Mar</MarShort>
+      <AprShort>Apr</AprShort>
+      <MayShort>May</MayShort>
+      <JunShort>Jun</JunShort>
+      <JulShort>Jul</JulShort>
+      <AugShort>Aug</AugShort>
+      <SepShort>Sep</SepShort>
+      <OctShort>Oct</OctShort>
+      <NovShort>Nov</NovShort>
+      <DecShort>Dec</DecShort>
+      <SunShort>Sun</SunShort>
+      <MonShort>Mon</MonShort>
+      <TueShort>Tue</TueShort>
+      <WedShort>Wed</WedShort>
+      <ThuShort>Thu</ThuShort>
+      <FriShort>Fri</FriShort>
+      <SatShort>Sat</SatShort>
+      <JanLong>January</JanLong>
+      <FebLong>February</FebLong>
+      <MarLong>March</MarLong>
+      <AprLong>April</AprLong>
+      <MayLong>May</MayLong>
+      <JunLong>June</JunLong>
+      <JulLong>July</JulLong>
+      <AugLong>August</AugLong>
+      <SepLong>September</SepLong>
+      <OctLong>October</OctLong>
+      <NovLong>November</NovLong>
+      <DecLong>December</DecLong>
+      <SunLong>Sunday</SunLong>
+      <MonLong>Monday</MonLong>
+      <TueLong>Tuesday</TueLong>
+      <WedLong>Wednesday</WedLong>
+      <ThuLong>Thursday</ThuLong>
+      <FriLong>Friday</FriLong>
+      <SatLong>Saturday</SatLong>
+    </Localization>
+    <Localization Language="French">
+      <LanguageKey>fre</LanguageKey>
+      <DateFormat>%a %e %b %y</DateFormat>
+      <TimeFormat>%k:%M</TimeFormat>
+      <AMFormat>AM</AMFormat>
+      <PMFormat>PM</PMFormat>
+      <JanShort>Jan</JanShort>
+      <FebShort>Fév</FebShort>
+      <MarShort>Mar</MarShort>
+      <AprShort>Avr</AprShort>
+      <MayShort>Mai</MayShort>
+      <JunShort>Jun</JunShort>
+      <JulShort>Jul</JulShort>
+      <AugShort>Aou</AugShort>
+      <SepShort>Sep</SepShort>
+      <OctShort>Oct</OctShort>
+      <NovShort>Nov</NovShort>
+      <DecShort>Déc</DecShort>
+      <SunShort>Dim</SunShort>
+      <MonShort>Lun</MonShort>
+      <TueShort>Mar</TueShort>
+      <WedShort>Mer</WedShort>
+      <ThuShort>Jeu</ThuShort>
+      <FriShort>Ven</FriShort>
+      <SatShort>Sam</SatShort>
+      <JanLong>Janvier</JanLong>
+      <FebLong>Février</FebLong>
+      <MarLong>Mars</MarLong>
+      <AprLong>Avril</AprLong>
+      <MayLong>Mai</MayLong>
+      <JunLong>Juin</JunLong>
+      <JulLong>Juillet</JulLong>
+      <AugLong>Aout</AugLong>
+      <SepLong>Septembre</SepLong>
+      <OctLong>Octobre</OctLong>
+      <NovLong>Novembre</NovLong>
+      <DecLong>Décembre</DecLong>
+      <SunLong>Dimanche</SunLong>
+      <MonLong>Lundi</MonLong>
+      <TueLong>Mardi</TueLong>
+      <WedLong>Mercredi</WedLong>
+      <ThuLong>Jeudi</ThuLong>
+      <FriLong>Vendredi</FriLong>
+      <SatLong>Samedi</SatLong>
+    </Localization>
+    <Localization Language="Italian">
+      <LanguageKey>ita</LanguageKey>
+      <DateFormat>%A, %B %e, %Y</DateFormat>
+      <TimeFormat>%l:%M</TimeFormat>
+      <AMFormat>AM</AMFormat>
+      <PMFormat>PM</PMFormat>
+      <JanShort>Gen</JanShort>
+      <FebShort>Feb</FebShort>
+      <MarShort>Mar</MarShort>
+      <AprShort>Apr</AprShort>
+      <MayShort>Mag</MayShort>
+      <JunShort>Giu</JunShort>
+      <JulShort>Lug</JulShort>
+      <AugShort>Ago</AugShort>
+      <SepShort>Set</SepShort>
+      <OctShort>Ott</OctShort>
+      <NovShort>Nov</NovShort>
+      <DecShort>Dic</DecShort>
+      <SunShort>Dom</SunShort>
+      <MonShort>Lun</MonShort>
+      <TueShort>Mar</TueShort>
+      <WedShort>Mer</WedShort>
+      <ThuShort>Gio</ThuShort>
+      <FriShort>Ven</FriShort>
+      <SatShort>Sab</SatShort>
+      <JanLong>Gennaio</JanLong>
+      <FebLong>Febbraio</FebLong>
+      <MarLong>Marzo</MarLong>
+      <AprLong>Aprile</AprLong>
+      <MayLong>Maggio</MayLong>
+      <JunLong>Giugno</JunLong>
+      <JulLong>Luglio</JulLong>
+      <AugLong>Agosto</AugLong>
+      <SepLong>Settembre</SepLong>
+      <OctLong>Ottobre</OctLong>
+      <NovLong>Novembre</NovLong>
+      <DecLong>Dicembre</DecLong>
+      <SunLong>Domenica</SunLong>
+      <MonLong>Lunedì</MonLong>
+      <TueLong>Martedì</TueLong>
+      <WedLong>Mercoledì</WedLong>
+      <ThuLong>Giovedì</ThuLong>
+      <FriLong>Venerdì</FriLong>
+      <SatLong>Sabato</SatLong>
+    </Localization>
+    <Localization Language="German">
+      <LanguageKey>ger</LanguageKey>
+      <DateFormat>%A, %e. %B %Y</DateFormat>
+      <TimeFormat>%k:%M</TimeFormat>
+      <AMFormat>AM</AMFormat>
+      <PMFormat>PM</PMFormat>
+      <JanShort>Jan</JanShort>
+      <FebShort>Feb</FebShort>
+      <MarShort>Mär</MarShort>
+      <AprShort>Apr</AprShort>
+      <MayShort>Mai</MayShort>
+      <JunShort>Jun</JunShort>
+      <JulShort>Jul</JulShort>
+      <AugShort>Aug</AugShort>
+      <SepShort>Set</SepShort>
+      <OctShort>Okt</OctShort>
+      <NovShort>Nov</NovShort>
+      <DecShort>Dez</DecShort>
+      <SunShort>So</SunShort>
+      <MonShort>Mo</MonShort>
+      <TueShort>Di</TueShort>
+      <WedShort>Mi</WedShort>
+      <ThuShort>Do</ThuShort>
+      <FriShort>Fr</FriShort>
+      <SatShort>Sa</SatShort>
+      <JanLong>Januar</JanLong>
+      <FebLong>Februar</FebLong>
+      <MarLong>März</MarLong>
+      <AprLong>April</AprLong>
+      <MayLong>Mai</MayLong>
+      <JunLong>Juni</JunLong>
+      <JulLong>Juli</JulLong>
+      <AugLong>August</AugLong>
+      <SepLong>September</SepLong>
+      <OctLong>Oktober</OctLong>
+      <NovLong>November</NovLong>
+      <DecLong>Dezember</DecLong>
+      <SunLong>Sonntag</SunLong>
+      <MonLong>Montag</MonLong>
+      <TueLong>Dienstag</TueLong>
+      <WedLong>Mittwoch</WedLong>
+      <ThuLong>Donnerstag</ThuLong>
+      <FriLong>Freitag</FriLong>
+      <SatLong>Samstag</SatLong>
+    </Localization>
+    <Localization Language="Spanish">
+      <LanguageKey>spa</LanguageKey>
+      <DateFormat>%A, %e de %B, %Y</DateFormat>
+      <TimeFormat>%k:%M</TimeFormat>
+      <AMFormat>AM</AMFormat>
+      <PMFormat>PM</PMFormat>
+      <JanShort>Ene</JanShort>
+      <FebShort>Feb</FebShort>
+      <MarShort>Mar</MarShort>
+      <AprShort>Abr</AprShort>
+      <MayShort>May</MayShort>
+      <JunShort>Jun</JunShort>
+      <JulShort>Jul</JulShort>
+      <AugShort>Ago</AugShort>
+      <SepShort>Sep</SepShort>
+      <OctShort>Oct</OctShort>
+      <NovShort>Nov</NovShort>
+      <DecShort>Dic</DecShort>
+      <SunShort>Dom</SunShort>
+      <MonShort>Lun</MonShort>
+      <TueShort>Mar</TueShort>
+      <WedShort>Mié</WedShort>
+      <ThuShort>Jue</ThuShort>
+      <FriShort>Vie</FriShort>
+      <SatShort>Sáb</SatShort>
+      <JanLong>Enero</JanLong>
+      <FebLong>Febrero</FebLong>
+      <MarLong>Marzo</MarLong>
+      <AprLong>Abril</AprLong>
+      <MayLong>Mayo</MayLong>
+      <JunLong>Junio</JunLong>
+      <JulLong>Julio</JulLong>
+      <AugLong>Agosto</AugLong>
+      <SepLong>Septiembre</SepLong>
+      <OctLong>Octubre</OctLong>
+      <NovLong>Noviembre</NovLong>
+      <DecLong>Diciembre</DecLong>
+      <SunLong>Domingo</SunLong>
+      <MonLong>Lunes</MonLong>
+      <TueLong>Martes</TueLong>
+      <WedLong>Miércoles</WedLong>
+      <ThuLong>Jueves</ThuLong>
+      <FriLong>Viernes</FriLong>
+      <SatLong>Sábado</SatLong>
+    </Localization>
+    <Localization Language="Dutch">
+      <LanguageKey>dut</LanguageKey>
+      <DateFormat>%A, %e. %B %Y</DateFormat>
+      <TimeFormat>%k:%M</TimeFormat>
+      <AMFormat>AM</AMFormat>
+      <PMFormat>PM</PMFormat>
+      <JanShort>Jan</JanShort>
+      <FebShort>Feb</FebShort>
+      <MarShort>Mar</MarShort>
+      <AprShort>Apr</AprShort>
+      <MayShort>Mei</MayShort>
+      <JunShort>Jun</JunShort>
+      <JulShort>Jul</JulShort>
+      <AugShort>Aug</AugShort>
+      <SepShort>Sep</SepShort>
+      <OctShort>Okt</OctShort>
+      <NovShort>Nov</NovShort>
+      <DecShort>Dec</DecShort>
+      <SunShort>Zo</SunShort>
+      <MonShort>Ma</MonShort>
+      <TueShort>Di</TueShort>
+      <WedShort>Wo</WedShort>
+      <ThuShort>Do</ThuShort>
+      <FriShort>Vr</FriShort>
+      <SatShort>Za</SatShort>
+      <JanLong>Januari</JanLong>
+      <FebLong>Februari</FebLong>
+      <MarLong>Maart</MarLong>
+      <AprLong>April</AprLong>
+      <MayLong>Mei</MayLong>
+      <JunLong>Juni</JunLong>
+      <JulLong>Juli</JulLong>
+      <AugLong>Augustus</AugLong>
+      <SepLong>September</SepLong>
+      <OctLong>Oktober</OctLong>
+      <NovLong>November</NovLong>
+      <DecLong>December</DecLong>
+      <SunLong>Zondag</SunLong>
+      <MonLong>Maandag</MonLong>
+      <TueLong>Dinsdag</TueLong>
+      <WedLong>Woensdag</WedLong>
+      <ThuLong>Donderdag</ThuLong>
+      <FriLong>Vrijdag</FriLong>
+      <SatLong>Zaterdag</SatLong>
+    </Localization>
+    <Localization Language="Swedish">
+      <LanguageKey>swe</LanguageKey>
+      <DateFormat>%y/%m/%d</DateFormat>
+      <TimeFormat>%H:%M</TimeFormat>
+      <AMFormat>AM</AMFormat>
+      <PMFormat>PM</PMFormat>
+      <JanShort>Jan</JanShort>
+      <FebShort>Feb</FebShort>
+      <MarShort>Mar</MarShort>
+      <AprShort>Apr</AprShort>
+      <MayShort>Maj</MayShort>
+      <JunShort>Jun</JunShort>
+      <JulShort>Jul</JulShort>
+      <AugShort>Aug</AugShort>
+      <SepShort>Sep</SepShort>
+      <OctShort>Okt</OctShort>
+      <NovShort>Nov</NovShort>
+      <DecShort>Dec</DecShort>
+      <SunShort>Sön</SunShort>
+      <MonShort>Mån</MonShort>
+      <TueShort>Tis</TueShort>
+      <WedShort>Ons</WedShort>
+      <ThuShort>Tor</ThuShort>
+      <FriShort>Fre</FriShort>
+      <SatShort>Lör</SatShort>
+      <JanLong>Januari</JanLong>
+      <FebLong>Februari</FebLong>
+      <MarLong>Mars</MarLong>
+      <AprLong>April</AprLong>
+      <MayLong>Maj</MayLong>
+      <JunLong>Juni</JunLong>
+      <JulLong>Juli</JulLong>
+      <AugLong>Augusti</AugLong>
+      <SepLong>September</SepLong>
+      <OctLong>Oktober</OctLong>
+      <NovLong>November</NovLong>
+      <DecLong>December</DecLong>
+      <SunLong>Söndag</SunLong>
+      <MonLong>Måndag</MonLong>
+      <TueLong>Tisdag</TueLong>
+      <WedLong>Onsdag</WedLong>
+      <ThuLong>Torsdag</ThuLong>
+      <FriLong>Fredag</FriLong>
+      <SatLong>Lördag</SatLong>
+    </Localization>
+    <MediaLibraryViewMode>Thumbs</MediaLibraryViewMode>
+    <PlaylistViewMode>Thumbs</PlaylistViewMode>
+    <DynamicPlaylistMediaLibraryViewMode>Thumbs</DynamicPlaylistMediaLibraryViewMode>
+    <DynamicPlaylistViewMode>Thumbs</DynamicPlaylistViewMode>
+    <VideoWallMediaLibraryViewMode>Thumbs</VideoWallMediaLibraryViewMode>
+    <VideoWallViewMode>Thumbs</VideoWallViewMode>
+    <NetworkLibraryViewMode>Thumbs</NetworkLibraryViewMode>
+    <PreviewDisplayMode>Half</PreviewDisplayMode>
+    <VideoWallNumRows>2</VideoWallNumRows>
+    <VideoWallNumColumns>2</VideoWallNumColumns>
+    <VideoWallType>Regular</VideoWallType>
+    <VideoWallShowLayoutScreens>True</VideoWallShowLayoutScreens>
+    <MeasureBezelByPercent>True</MeasureBezelByPercent>
+    <BezelWidthPercentage>0</BezelWidthPercentage>
+    <BezelHeightPercentage>0</BezelHeightPercentage>
+    <BezelWidthMeasurement>0</BezelWidthMeasurement>
+    <BezelHeightMeasurement>0</BezelHeightMeasurement>
+    <ScreenWidthMeasurement>402</ScreenWidthMeasurement>
+    <ScreenHeightMeasurement>375</ScreenHeightMeasurement>
+    <VideoWallPublishToLWSUnits>
+    </VideoWallPublishToLWSUnits>
+    <RFChannelDataFilePath />
+    <SerialPortConfiguration>
+      <port>0</port>
+      <baudRate>115200</baudRate>
+      <dataBits>8</dataBits>
+      <parity>N</parity>
+      <stopBits>1</stopBits>
+      <protocol>ASCII</protocol>
+      <sendEol>CR</sendEol>
+      <receiveEol>CR</receiveEol>
+      <invertSignals>False</invertSignals>
+      <connectedDevice>None</connectedDevice>
+    </SerialPortConfiguration>
+    <SerialPortConfiguration>
+      <port>1</port>
+      <baudRate>115200</baudRate>
+      <dataBits>8</dataBits>
+      <parity>N</parity>
+      <stopBits>1</stopBits>
+      <protocol>ASCII</protocol>
+      <sendEol>CR</sendEol>
+      <receiveEol>CR</receiveEol>
+      <invertSignals>False</invertSignals>
+      <connectedDevice>None</connectedDevice>
+    </SerialPortConfiguration>
+    <SerialPortConfiguration>
+      <port>2</port>
+      <baudRate>115200</baudRate>
+      <dataBits>8</dataBits>
+      <parity>N</parity>
+      <stopBits>1</stopBits>
+      <protocol>ASCII</protocol>
+      <sendEol>CR</sendEol>
+      <receiveEol>CR</receiveEol>
+      <invertSignals>False</invertSignals>
+      <connectedDevice>None</connectedDevice>
+    </SerialPortConfiguration>
+    <SerialPortConfiguration>
+      <port>3</port>
+      <baudRate>115200</baudRate>
+      <dataBits>8</dataBits>
+      <parity>N</parity>
+      <stopBits>1</stopBits>
+      <protocol>ASCII</protocol>
+      <sendEol>CR</sendEol>
+      <receiveEol>CR</receiveEol>
+      <invertSignals>False</invertSignals>
+      <connectedDevice>None</connectedDevice>
+    </SerialPortConfiguration>
+    <SerialPortConfiguration>
+      <port>4</port>
+      <baudRate>115200</baudRate>
+      <dataBits>8</dataBits>
+      <parity>N</parity>
+      <stopBits>1</stopBits>
+      <protocol>ASCII</protocol>
+      <sendEol>CR</sendEol>
+      <receiveEol>CR</receiveEol>
+      <invertSignals>False</invertSignals>
+      <connectedDevice>None</connectedDevice>
+    </SerialPortConfiguration>
+    <SerialPortConfiguration>
+      <port>5</port>
+      <baudRate>115200</baudRate>
+      <dataBits>8</dataBits>
+      <parity>N</parity>
+      <stopBits>1</stopBits>
+      <protocol>ASCII</protocol>
+      <sendEol>CR</sendEol>
+      <receiveEol>CR</receiveEol>
+      <invertSignals>False</invertSignals>
+      <connectedDevice>None</connectedDevice>
+    </SerialPortConfiguration>
+    <UDPDestinationAddressType>IPAddress</UDPDestinationAddressType>
+    <UDPDestinationAddress>255.255.255.255</UDPDestinationAddress>
+    <UDPDestinationPort>5000</UDPDestinationPort>
+    <UDPReceiverPort>5000</UDPReceiverPort>
+    <FlipCoordinates>false</FlipCoordinates>
+    <TimeoutEventDefaultValue>6</TimeoutEventDefaultValue>
+    <TouchCursorDisplayMode>auto</TouchCursorDisplayMode>
+    <TBBUserDefinedEventsVisible>False</TBBUserDefinedEventsVisible>
+    <TBBTimeoutVisible>True</TBBTimeoutVisible>
+    <TBBMediaEndVisible>True</TBBMediaEndVisible>
+    <TBBBP900AVisible>False</TBBBP900AVisible>
+    <TBBBP900BVisible>False</TBBBP900BVisible>
+    <TBBBP900CVisible>False</TBBBP900CVisible>
+    <TBBBP200AVisible>False</TBBBP200AVisible>
+    <TBBBP200BVisible>False</TBBBP200BVisible>
+    <TBBBP200CVisible>False</TBBBP200CVisible>
+    <TBBQuietVisible>True</TBBQuietVisible>
+    <TBBLoudVisible>True</TBBLoudVisible>
+    <TBBButton0Visible>True</TBBButton0Visible>
+    <TBBButton1Visible>True</TBBButton1Visible>
+    <TBBButton2Visible>True</TBBButton2Visible>
+    <TBBButton3Visible>True</TBBButton3Visible>
+    <TBBButton4Visible>True</TBBButton4Visible>
+    <TBBButton5Visible>True</TBBButton5Visible>
+    <TBBButton6Visible>True</TBBButton6Visible>
+    <TBBButton7Visible>True</TBBButton7Visible>
+    <TBBTouchVisible>True</TBBTouchVisible>
+    <TBBSyncVisible>True</TBBSyncVisible>
+    <TBBZoneMessageVisible>True</TBBZoneMessageVisible>
+    <TBBInternalSyncVisible>True</TBBInternalSyncVisible>
+    <TBBUDPVisible>True</TBBUDPVisible>
+    <TBBSerialVisible>True</TBBSerialVisible>
+    <TBBKeyboardVisible>True</TBBKeyboardVisible>
+    <TBBRemoteVisible>True</TBBRemoteVisible>
+    <TBBUSBVisible>True</TBBUSBVisible>
+    <TBBAudioTimeCodeVisible>False</TBBAudioTimeCodeVisible>
+    <TBBVideoTimeCodeVisible>True</TBBVideoTimeCodeVisible>
+    <TBBTimeClockVisible>True</TBBTimeClockVisible>
+    <TBBGPSEventVisible>True</TBBGPSEventVisible>
+    <TBBSuccessVisible>False</TBBSuccessVisible>
+    <TBBFailVisible>False</TBBFailVisible>
+    <TBBAuxConnectVisible>False</TBBAuxConnectVisible>
+    <TBBAuxDisconnectVisible>False</TBBAuxDisconnectVisible>
+    <TBBPluginMessageVisible>True</TBBPluginMessageVisible>
+    <SetupUnitConfiguration>standalone</SetupUnitConfiguration>
+    <BNMSetupGroup>Default</BNMSetupGroup>
+    <SimpleNetworkingURL />
+    <NetworkingTimeZone />
+    <NetworkingTimeBetweenNetConnects>300</NetworkingTimeBetweenNetConnects>
+    <NetworkingContentDownloadsRestricted>False</NetworkingContentDownloadsRestricted>
+    <NetworkingContentDownloadRangeStart />
+    <NetworkingContentDownloadRangeLength />
+    <NetworkingUnitNamingMethod />
+    <NetworkingTargetSetupFolder />
+    <ExportTargetFolder />
+    <PublishTarget>folder</PublishTarget>
+    <PublishLocalStorageTargetFolder />
+    <PublishSimpleNetworkingURL />
+    <PublishSimpleNetworkingTargetFolder />
+    <BNMRememberCredentials>False</BNMRememberCredentials>
+    <BNMAutoSignIn>False</BNMAutoSignIn>
+    <BNMDefaultPublishGroup />
+    <BNMDefaultPublishBrightWallGroup />
+    <TimeBetweenHeartbeats>900</TimeBetweenHeartbeats>
+    <HeartbeatsRestricted>False</HeartbeatsRestricted>
+    <HeartbeatsRangeStart />
+    <HeartbeatsRangeLength />
+    <DHCPWired>True</DHCPWired>
+    <StaticIPAddressWired />
+    <SubnetMaskWired />
+    <GatewayWired />
+    <DNS1Wired />
+    <DNS2Wired />
+    <DNS3Wired />
+    <RateLimitModeOutsideWindowWired>default</RateLimitModeOutsideWindowWired>
+    <RateLimitRateOutsideWindowWired>0</RateLimitRateOutsideWindowWired>
+    <RateLimitModeInWindowWired>unlimited</RateLimitModeInWindowWired>
+    <RateLimitRateInWindowWired>0</RateLimitRateInWindowWired>
+    <RateLimitModeInitialDownloadsWired>unlimited</RateLimitModeInitialDownloadsWired>
+    <RateLimitRateInitialDownloadsWired>0</RateLimitRateInitialDownloadsWired>
+    <DHCPWireless>True</DHCPWireless>
+    <StaticIPAddressWireless />
+    <SubnetMaskWireless />
+    <GatewayWireless />
+    <DNS1Wireless />
+    <DNS2Wireless />
+    <DNS3Wireless />
+    <RateLimitModeOutsideWindowWireless>default</RateLimitModeOutsideWindowWireless>
+    <RateLimitRateOutsideWindowWireless>0</RateLimitRateOutsideWindowWireless>
+    <RateLimitModeInWindowWireless>unlimited</RateLimitModeInWindowWireless>
+    <RateLimitRateInWindowWireless>0</RateLimitRateInWindowWireless>
+    <RateLimitModeInitialDownloadsWireless>unlimited</RateLimitModeInitialDownloadsWireless>
+    <RateLimitRateInitialDownloadsWireless>0</RateLimitRateInitialDownloadsWireless>
+    <TimeServer>http://time.brightsignnetwork.com</TimeServer>
+    <SetupEnableLWS>False</SetupEnableLWS>
+    <EnableLWSUpdateNotifications>True</EnableLWSUpdateNotifications>
+    <UseProxy>False</UseProxy>
+    <ProxyAddress />
+    <ProxyPort />
+    <NetworkingUseWireless>False</NetworkingUseWireless>
+    <SSID />
+    <Passphrase />
+    <EnableSerialDebugging>False</EnableSerialDebugging>
+    <EnableSystemLogDebugging>False</EnableSystemLogDebugging>
+    <PlaybackLoggingEnabled>False</PlaybackLoggingEnabled>
+    <EventLoggingEnabled>False</EventLoggingEnabled>
+    <StateLoggingEnabled>False</StateLoggingEnabled>
+    <DiagnosticLoggingEnabled>False</DiagnosticLoggingEnabled>
+    <VariableLoggingEnabled>False</VariableLoggingEnabled>
+    <UploadLogFilesAtBoot>False</UploadLogFilesAtBoot>
+    <UploadLogFilesAtSpecificTime>False</UploadLogFilesAtSpecificTime>
+    <UploadLogFilesTime>0</UploadLogFilesTime>
+    <UploadLogFilesSimpleNetworkingHandler />
+    <EnableBSN>False</EnableBSN>
+    <EnableLWS>True</EnableLWS>
+    <EnableBonjour>True</EnableBonjour>
+    <EnableSimpleFileNetworking>True</EnableSimpleFileNetworking>
+    <UseBAProxyServer>False</UseBAProxyServer>
+    <BAProxyServerAddress />
+    <BAProxyServerPort />
+    <BAProxyServerRememberUserName>False</BAProxyServerRememberUserName>
+    <BAProxyServerUserName />
+    <BAProxyServerDomain />
+    <PublishOverwriteDontAskAgain>False</PublishOverwriteDontAskAgain>
+    <PublishOverwriteDontCopy>False</PublishOverwriteDontCopy>
+    <ShowImageFileResizeDialog>True</ShowImageFileResizeDialog>
+    <ResizeImages>False</ResizeImages>
+    <TransitionDisplayMode>auto</TransitionDisplayMode>
+    <TransitionDisplayLabelLocation>bottom</TransitionDisplayLabelLocation>
+    <SavePropertiesDontAskAgain>False</SavePropertiesDontAskAgain>
+    <SavePropertiesForAllFuture>True</SavePropertiesForAllFuture>
+    <SaveScheduleDontAskAgain>False</SaveScheduleDontAskAgain>
+    <ExecuteNewSignInitialFolder>LastFolderUsed</ExecuteNewSignInitialFolder>
+    <SavePropertiesDontAskAgainVideoWalls>False</SavePropertiesDontAskAgainVideoWalls>
+    <SavePropertiesForAllFutureVideoWalls>True</SavePropertiesForAllFutureVideoWalls>
+    <InactivityTimeout>False</InactivityTimeout>
+    <InactivityTime>30</InactivityTime>
+    <DWSEnabled>True</DWSEnabled>
+    <DWSPassword />
+    <LiveTextRSSUpdateInterval>300</LiveTextRSSUpdateInterval>
+    <AutoCreateMediaCounterVariables>False</AutoCreateMediaCounterVariables>
+    <ResetVariablesOnPresentationStart>False</ResetVariablesOnPresentationStart>
+    <NetworkedVariablesUpdateInterval>300</NetworkedVariablesUpdateInterval>
+    <VideoStreamTimeOnScreen>0</VideoStreamTimeOnScreen>
+    <MjpegStreamTimeOnScreen>0</MjpegStreamTimeOnScreen>
+    <MjpegStreamRotation>0</MjpegStreamRotation>
+    <FadeLength>4</FadeLength>
+    <DisplayMinimumFWVersionWarning>True</DisplayMinimumFWVersionWarning>
+    <DisplayContentUpdatePasswordClearedWarning>True</DisplayContentUpdatePasswordClearedWarning>
+    <DisplayReadOnlyFileSystemRequiredWarning>True</DisplayReadOnlyFileSystemRequiredWarning>
+    <DisplayReadWriteFileSystemRequiredWarning>True</DisplayReadWriteFileSystemRequiredWarning>
+    <NetworkConnectionPriority0>Wired</NetworkConnectionPriority0>
+    <NetworkConnectionPriority1>Wireless</NetworkConnectionPriority1>
+    <ContentDataTypeEnabledWired>True</ContentDataTypeEnabledWired>
+    <TextFeedsDataTypeEnabledWired>True</TextFeedsDataTypeEnabledWired>
+    <HealthDataTypeEnabledWired>True</HealthDataTypeEnabledWired>
+    <MediaFeedsDataTypeEnabledWired>True</MediaFeedsDataTypeEnabledWired>
+    <LogUploadsDataTypeEnabledWired>True</LogUploadsDataTypeEnabledWired>
+    <ContentDataTypeEnabledWireless>True</ContentDataTypeEnabledWireless>
+    <TextFeedsDataTypeEnabledWireless>True</TextFeedsDataTypeEnabledWireless>
+    <HealthDataTypeEnabledWireless>True</HealthDataTypeEnabledWireless>
+    <MediaFeedsDataTypeEnabledWireless>True</MediaFeedsDataTypeEnabledWireless>
+    <LogUploadsDataTypeEnabledWireless>True</LogUploadsDataTypeEnabledWireless>
+    <SFNUserName />
+    <SFNPassword />
+    <SFNEnableBasicAuthentication>false</SFNEnableBasicAuthentication>
+    <EnableRemoteSnapshot>False</EnableRemoteSnapshot>
+    <RemoteSnapshotInterval>15</RemoteSnapshotInterval>
+    <RemoteSnapshotMaxImages>5</RemoteSnapshotMaxImages>
+    <RemoteSnapshotJpegQualityLevel>50</RemoteSnapshotJpegQualityLevel>
+    <RemoteSnapshotDisplayPortrait>False</RemoteSnapshotDisplayPortrait>
+    <RemoteSnapshotFilesSimpleNetworkingHandler />
+    <UseCustomSplashScreen>False</UseCustomSplashScreen>
+    <CustomSplashScreenFilePath />
+    <CustomColors>6916092|15195440|16107657|1836924|3758726|12566463|7526079|7405793|6945974|241502|2296476|5130294|3102017|7324121|14993507|11730944</CustomColors>
+    <BypassProxyBrightSignNetwork>False</BypassProxyBrightSignNetwork>
+    <BypassProxyBrightSignNetworkFeeds>False</BypassProxyBrightSignNetworkFeeds>
+  </UserPreferences>
+</BrightAuthorUserPreferences>
